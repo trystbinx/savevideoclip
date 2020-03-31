@@ -1,3 +1,3 @@
-# This is a side project
+# Object Detection
 
 It is still under development
