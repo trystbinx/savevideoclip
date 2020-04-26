@@ -39,7 +39,7 @@ To execute the file:
  
  i) python3 writevideo.py
  or
- ii) python3 writevideo.py
+ ii) python3 writevideo.py -display 1
 
 4. TensorFlowLite Object Detection
 
